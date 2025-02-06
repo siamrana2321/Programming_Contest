@@ -16,3 +16,6 @@
 
 **Graph Algorithm :**
 - Dijkstra's Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Kruskal's Algorithm
