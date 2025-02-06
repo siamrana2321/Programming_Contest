@@ -14,11 +14,3 @@
 - Radix Sort
 - Bucket Sort
 
-**Graph Algorithm :**
-- Dijkstra's Algorithm
-- Bellman-Ford Algorithm
-- Floyd-Warshall Algorithm
-- Kruskal's Algorithm
-- Prim's Algorithm
-- DFS
-- BFS
