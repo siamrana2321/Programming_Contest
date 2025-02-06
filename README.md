@@ -13,3 +13,6 @@
 - Heap Sort
 - Radix Sort
 - Bucket Sort
+
+**Graph Algorithm :**
+- Dijkstra's Algorithm
