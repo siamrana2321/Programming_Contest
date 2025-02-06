@@ -19,3 +19,6 @@
 - Bellman-Ford Algorithm
 - Floyd-Warshall Algorithm
 - Kruskal's Algorithm
+- Prim's Algorithm
+- DFS
+- BFS
